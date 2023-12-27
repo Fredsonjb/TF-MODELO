@@ -1,0 +1,12 @@
+variable "ami" {}
+variable "ec2_instance_type" {}
+variable "key_name" {}
+variable "volume_size" {}
+variable "volume_type" {}
+variable "private_subnet_a" {}
+variable "private_subnet_b" {}
+variable "sg" {}
+variable "avz-A" {}
+variable "avz-B" {}
+variable "env" {}
+variable "project_name" {}

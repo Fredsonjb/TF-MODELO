@@ -1,0 +1,9 @@
+variable "env" {}
+variable "project_name" {}
+variable "elasticache_subnet_name" {}
+variable "elasticache_cluster_id" {}
+variable "elasticache_engine" {}
+variable "elasticache_node_type" {}
+variable "elasticache_num_nodes" {}
+variable "elasticache_parameter_group_name" {}
+variable "elasticache_port" {}
